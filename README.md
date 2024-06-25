@@ -6,7 +6,7 @@ Repositório para armazenar resumos sobre Git e GitHUb do curso Versionamento de
 - [Documentação Git](Link)
 - [Documentação GitHub](Link)
 
-## Resumo das aulas
+## Resumos das aulas
 
 | Aulas | Resumos|
 |-------|--------|
