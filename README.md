@@ -10,7 +10,8 @@ Repositório para armazenar resumos sobre Git e GitHUb do curso Versionamento de
 
 | Aulas | Resumos|
 |-------|--------|
-|Gravando alterações no repertório local | [Resumos](link) |
+| Aula 01 | [Resumos](link) |
+| Aula 02 | [Resumos](link) |
 
 ```
 git Inovation
